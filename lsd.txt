@@ -1,0 +1,79 @@
+One way to heal a brain injury? Let LSD open your mind—literally.
+Psychedelic drugs such as DMT and Ecstasy may offer a unique treatment pathway for various brain injuries and diseases because of their potency, helping patients learn lost and new skills.
+ByMeryl Davids Landau
+August 23, 2023
+•
+10 min read
+In recent years, clinical trials and lab research has revealed that psychedelic drugs taken in a controlled, supportive environment can improve mood disorders including severe depression, anxiety, and post-traumatic stress disorder. Now a growing number of scientists are exploring whether these powerful medicines might also treat physical injuries to the brain along with other disorders that result from different brain-wiring. This could have implications for stroke and traumatic brain injury (TBI), as well as brain diseases including Alzheimer’s and Parkinson’s.
+
+Psychedelics are a class of compounds that alter consciousness, including lysergic acid diethylamide (LSD), psilocybin (aka magic mushrooms), methylenedioxy-methamphetamine (MDMA, or Ecstasy), dimethyltryptamine (DMT), and ayahuasca (derived from certain plants in South America), among others. Each affects the brain in slightly varied ways.
+
+Most brain-injury research so far—conducted in test tubes and lab animals, with only a few small studies in people—points to the psychedelics’ potential to limit brain damage after injury, stimulate the birth of new neurons to replace impaired ones, and open the learning windows that let the brain acquire new skills. One recent study, published in the journal Nature, found lab animals taking psychedelics adopted skills as adults that were previously limited to childhood.
+
+“My lab got really lucky when we discovered that psychedelics are the master keys for reopening critical periods that scientists have been looking for so long,” says Gül Dölen, an associate professor of neuroscience at the Johns Hopkins School of Medicine in Baltimore, who coauthored the Nature article.
+
+These drugs could prove especially valuable because brain-injury conditions generally lack effective therapies, says Sunil Aggarwal, an integrative rehabilitation medicine physician in Seattle who coauthored a review of research on psychedelics for brain injuries in the medical journal Frontiers in Neurology. “It’s still early on, but this is a very exciting time. There’s a lot of interesting research that suggests this will be a really helpful treatment for these patients.”
+
+Expanding an injured brain’s ability to learn
+Human brains develop in a way that specific skills are most easily learned during targeted developmental stages, known as critical periods. People who attempt to learn a new language in adulthood tend to understand this concept, because the critical period for language closes after the teenage years.
+
+Yet this summer, the Johns Hopkins scientists reported that adult rodents given a psychedelic learned certain socialization skills that are typically acquired only as juveniles.
+
+Such an ability has implications for treating strokes and TBIs. When a person suffers these injuries, many neurons in the brain are damaged. Fortunately, a critical learning period for speech and motor skills reopens naturally following the event, enabling the person to regain some lost abilities. But it generally closes within six months, hindering improvement after that time.
+
+In the study, adult mice lacking certain social skills were trained to associate a specific environment with solitude and another with communal interaction. After they were given a single dose of LSD, psilocybin, or other psychedelic, they could choose to spend time in either environment. The majority preferred the social location.
+
+All the drugs had this effect, but those that produce the longest psychedelic experience in humans reopened the rodents’ critical period for the longest duration afterwards. With LSD, for example, whose psychedelic effects last around 10 hours, the mice keep learning the value of socialization for months afterwards, compared to weeks for psychedelics producing shorter hallucinations.
+
+“That tells us the same mechanism is probably at work,” Dölen says. After autopsying the animals’ brains, Dölen discovered that the psychedelics seem to work by dissolving components around neurons that stabilize the memory encoded there—a slurry of proteins, sugars, and other compounds known as the extracullar matrix. Dölen likens this matrix to the grout between floor tiles, because when it is removed tiles can freely move about. In the brain, with the matrix weakened, the neurons are open to new learning.
+
+This likely happens because having psychedelics like LSD sit in their receptors so long overwhelms the neurons and causes them to hit a sort of reset button, like a hard reset after a computer freezes. The resulting cascade of cellular events reboots the brain back to an earlier developmental stage, Dölen says.
+
+The reopening of learning windows seems to explain why psychedelic studies for mood disorders emphasize the importance of post-drug psychotherapy known as integration. As the brain is open to new ideas during integration it can approach its mental illness in novel ways, Dölen says. [Read more in Psychedelic Medicine Is Coming—But Who’s Going to Guide Your Trip.]
+
+Enhancing socialization for autism spectrum disorder
+Reopening learning windows may also help people who don’t have injuries but whose brains are wired differently, such as those with autism spectrum disorder, a neurological and developmental condition that, among other things, affects how people interact with others. Research has shown that the brains of people with autism bear some distinctions from those without the condition, especially in the frontal cortex that regulates emotions and relationships.
+
+You May Also Like
+
+SCIENCE
+She had a severe brain injury—so her husband turned to an unprecedented therapy
+
+SCIENCE
+7 medical breakthroughs that gave us hope in 2023
+
+SCIENCE
+What triggers morning migraines? Scientists might now know.
+In one study, eight adults with autism spectrum disorder experienced a marked decline in social anxiety after taking two doses of the psychedelic MDMA, each of which was followed by three psychotherapy sessions. The benefits of the therapy persisted through the six-month follow up, the University of California, Los Angeles study found.
+
+MDMA could be a particularly valuable psychedelic for autism because it facilitates the desire for socialization, a skill many on the spectrum find challenging, says Robert Malenka, a professor of psychiatry and behavioral sciences at Stanford University who has performed animal research using the drug. “Under the influence of MDMA, one has this profound … sense of wanting to interact with other people in a non-aggressive, prosocial and empathic way,” he says.
+
+Andrew Amick, a 34-year-old Los Angeles office administrator training to become a psychotherapist, participated in the UCLA research. Before the study, contemplating even casual social situations like riding in an elevator with coworkers or passing them in the hall made him so anxious he took steps to avoid them.
+
+He remembers during the MDMA sessions focusing on the peaceful nature of the room, the soothing music, and his relaxed body. Afterwards, he realized that he could tap into these same sensations when interacting with people. “It’s easier for me to choose to be peaceful in social situations,” even six years later, Amick says. When he finds himself in his office elevator with colleagues, not only does he not feel compelled to run, but he can also comfortably start a conversation.
+
+Helping the brain help itself
+Other ways that psychedelics seem to impact the brain include reducing inflammation, a key perpetrator of the damage following a brain injury. While this swelling is a useful biological response to injured tissue because it accompanies immune cells and other healing chemicals that flood the area, too much is a serious problem.
+
+“The body needs to turn on the inflammation, but it also needs to turn it off,” Aggarwal says. When it doesn’t do the latter in a timely matter, neurons that escaped the initial injury can subsequently be damaged. One way that psychedelics decrease inflammation is by binding to serotonin receptors called 5-HT2A—which are responsible for producing the hallucinogenic sensations and also regulate inflammation. Psychedelics additionally stimulate a brain protein called glial cell-derived neurotrophic factor (GDNF) that is responsible for the growth and recovery of injured neurons.
+
+Several labs are evaluating the psychedelic DMT as a possible medication to boost recovery after stroke. DMT works by stimulating another class of receptors called sigma-1 (S1R), which seem to be important for protecting cells from the injury that occurs when blood reflows to the brain following a stroke.
+
+Rats slowly infused with low doses of DMT after a stroke had fewer damaged tissues and more extensive recovery; brain levels of anti-inflammatory compounds and sigma-1 proteins were abundant in the treated animals.
+
+“The body has many intrinsic defense mechanisms, but in a stroke these systems get overwhelmed,” says Christopher Bryan, vice president of research and operations for the Canadian company Algernon. His company is currently testing whether DMT could reduce this process in people.
+
+Algernon first studied healthy individuals to evaluate whether it is safe to infuse low doses of DMT over six hours. Results are unpublished, but Bryan says this delivery proved safe, enabling the company to soon begin clinical trials in hospitalized stroke patients. By slowly infusing the drug, Bryan says that patients get a therapeutic dose without triggering DMT’s psychedelic effects, which could be jarring to someone recovering from a brain injury.
+
+Treating the most challenging brain injuries
+Traumatic brain injuries, which result from a violent blow to the head such as from a car accident or wartime explosive, are especially difficult to treat because multiple parts of the brain can be damaged. Nolan Williams, director of the Brain Stimulation Lab at Stanford University in California, was intrigued by ibogaine’s potential after hearing stories of veterans with TBI going overseas to take the drug and returning with their memory and neurological functions dramatically improved. [Read more in These Pioneering Therapies Are Treating Hard to Heal Wounds As Never Before.]
+
+Williams recently conducted a clinical trial in which 30 veterans were administered ibogaine. Results have not been published, but mental processing skills improved for many of the vets, Williams told attendees at a recent Psychedelic Science conference in Denver. Moreover, brain scans found that blood flow to parts of the brain involved in rehabilitation increased.
+
+It may turn out that novel psychedelics engineered to remove the altered consciousness could prove particularly effective for brain injuries. That prospect was enhanced following recent research that found in addition to 5-HT2A serotonin receptors, psychedelics also bind to a receptor called TrkB (pronounced track B), which helps nerve cells communicate with one another. Antidepressants similarly activate this receptor, but psychedelics were found to be a thousand times more potent, says Eero Castrén, a neuroscientist at the University of Helsinki in Finland who coauthored the study.
+
+TrkB does not cause hallucinogenic effects, meaning drugs engineered to bind to these receptors without activating 5HT2A might produce similar healing. Although some people believe the psychedelic high is an important aspect in mood-disorder treatment, it may be less necessary for brain injuries, Castrén says. [Read more in Scientists Want to Create Psychedelics that Give Better Trips.]
+
+Many physicians and researchers say that the advantage of psychedelic therapies is that they are so potent only one or a few doses are generally required, so they could offer a unique treatment pathway.
+
+“A lot of the drugs we currently use for brain injuries must be taken daily,” Aggarwal says. Using psychedelic drugs “is a different paradigm, which relies a lot more on the body’s innate healing capabilities and stimulating that process to occur more robustly.”
